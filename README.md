@@ -2,6 +2,8 @@
 
 # Live Server
 
+* https://bhuynh017.github.io/Note_Taker/ 
+
 # Walkthrough Video
 
 * https://drive.google.com/file/d/1BwT8GB2UzP4ww-ZDcfngvMH-LQ7dGo1h/view
