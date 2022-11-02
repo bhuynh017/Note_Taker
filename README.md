@@ -4,6 +4,8 @@
 
 # Walkthrough Video
 
+* https://drive.google.com/file/d/1BwT8GB2UzP4ww-ZDcfngvMH-LQ7dGo1h/view
+
 # Description
 
 * A application in which the user can write and save notes.
